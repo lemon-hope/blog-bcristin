@@ -62,7 +62,9 @@ params:
     text: "bcristin"
     #icon: /apple-touch-icon.png
     #iconHeight: 35
-
+  caches:
+    images:
+      dir: :cacheDir/images
   # profile-mode
  # profileMode:
     #enabled: false # needs to be explicitly set
