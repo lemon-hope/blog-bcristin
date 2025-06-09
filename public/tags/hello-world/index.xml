@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>bcristin</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on bcristin</description>
+    <title>Hello World on bcristin</title>
+    <link>http://localhost:1313/tags/hello-world/</link>
+    <description>Recent content in Hello World on bcristin</description>
     <image>
       <title>bcristin</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 01:31:38 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Manifest / Manifeste / Manifesto</title>
-      <link>http://localhost:1313/manifest/</link>
-      <pubDate>Mon, 02 Jun 2025 01:30:38 +0000</pubDate>
-      <guid>http://localhost:1313/manifest/</guid>
-      <description>An introductory post.</description>
-    </item>
+    <lastBuildDate>Sun, 01 Jun 2025 01:05:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I just created a blog!</title>
       <link>http://localhost:1313/en/hello-world/</link>
@@ -27,7 +20,7 @@
       <guid>http://localhost:1313/en/hello-world/</guid>
       <description>3,2,1, That is it, I just created my blog
 After long time procrastinating on the idea,
-I finally decided to start this blog</description>
+I finally decided to lunch this blog.</description>
     </item>
   </channel>
 </rss>

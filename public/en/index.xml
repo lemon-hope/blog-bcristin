@@ -11,6 +11,16 @@
     </image>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 01:05:24 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I just created a blog!</title>
+      <link>http://localhost:1313/en/hello-world/</link>
+      <pubDate>Sun, 01 Jun 2025 01:05:24 +0000</pubDate>
+      <guid>http://localhost:1313/en/hello-world/</guid>
+      <description>3,2,1, That is it, I just created my blog
+After long time procrastinating on the idea,
+I finally decided to start this blog</description>
+    </item>
   </channel>
 </rss>
