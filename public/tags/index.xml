@@ -11,49 +11,6 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 01:05:24 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/tags/first-post/</link>
-      <pubDate>Sun, 01 Jun 2025 01:05:24 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/tags/hello-world/</link>
-      <pubDate>Sun, 01 Jun 2025 01:05:24 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hello-world/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Manifest</title>
-      <link>http://localhost:1313/tags/manifest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/manifest/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Premier</title>
-      <link>http://localhost:1313/tags/premier/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/premier/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Primeiro</title>
-      <link>http://localhost:1313/tags/primeiro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/primeiro/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

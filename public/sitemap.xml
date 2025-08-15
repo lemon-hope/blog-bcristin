@@ -11,27 +11,18 @@
     <loc>http://localhost:1313/en/</loc>
     <lastmod>2025-08-02T01:31:38+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/fr/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/first/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/first-post/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/hello-world/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/manifest/</loc>
   </url><url>
     <loc>http://localhost:1313/photos/</loc>
   </url><url>
     <loc>http://localhost:1313/pt/</loc>
   </url><url>
-    <loc>http://localhost:1313/fr/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/premier/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/primeiro/</loc>
+    <loc>http://localhost:1313/en/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

@@ -72,8 +72,8 @@ params:
     Title: "Hi there \U0001F44B"
     Content: | 
       - Welcome to my blog!
-      - /!\ If it’s your first time here, please take a moment to read [this introductory post](/manifest).
-      - Have fun!
+      - Here I share short texts and personal thoughts on topics related to computer science, cybersecurity, philosophy, and various other subjects.
+      - Enjoy and have fun!
   socialIcons:
     #- name: x
       #url: "https://x.com/"
