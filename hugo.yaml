@@ -19,8 +19,8 @@ defaultContentLanguage : en
   
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: bcristin 
+  description: "Bcristin's blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: "b.cristino" 
   favicon: true
